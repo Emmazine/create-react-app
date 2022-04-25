@@ -62,4 +62,4 @@ reportWebVitals(sendToAnalytics);
 > reportWebVitals(sendToAnalytics);
 > ```
 >
-> Read more about sending results to Google Analytics [here](https://github.com/GoogleChrome/web-vitals#send-the-results-to-google-analytics).
+> Read more about sending results to Google Analytics [fine](https://github.com/GoogleChrome/web-vitals#send-the-results-to-google-analytics).
